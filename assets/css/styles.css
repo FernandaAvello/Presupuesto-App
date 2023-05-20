@@ -1,0 +1,9 @@
+.card {
+  padding: 4%;
+}
+#budgetCard {
+  background-color: #e8f3ee;
+}
+#spentCard {
+  background-color: #fcebec;
+}
